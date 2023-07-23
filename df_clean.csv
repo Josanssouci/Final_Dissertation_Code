@@ -1,0 +1,87 @@
+Timestamp,Role,Experience,AI_Exposure,Data_Quality,Bias_Concerns,AI_Transparency,AI_Trust,Collaboration_Importance,AI_Training,Training_Importance
+2023-06-08T10:15:29Z,Dentist,1 à 3 ans,Non,3,Oui,3,4,1,Non,Oui
+2023-06-08T11:36:25Z,Pharmacist,7 à 10 ans,Oui,3,Oui,3,2,4,Non,Oui
+2023-06-08T11:40:57Z,Pharmacist,1 à 3 ans,Non,3,Non,4,4,5,Non,Oui
+2023-06-08T11:49:11Z,Pharmacist,Moins d'un an,Non,3,Oui,2,3,5,Non,Oui
+2023-06-08T12:38:19Z,Pharmacist,7 à 10 ans,Oui,4,Oui,1,3,5,Préfère ne pas répondre,Oui
+2023-06-08T12:48:56Z,Biologist,1 à 3 ans,Non,3,Oui,3,3,3,Non,Non
+2023-06-08T13:27:13Z,Doctor,1 à 3 ans,Oui,5,Préfère ne pas répondre,2,3,3,Non,Oui
+2023-06-08T14:56:08Z,Pharmacist,1 à 3 ans,Non,4,Non,3,3,5,Non,Oui
+2023-06-08T15:15:06Z,Pharmacist,7 à 10 ans,Oui,4,Oui,2,5,5,Oui,Oui
+2023-06-08T18:21:47Z,Pharmacist,Moins d'un an,Oui,3,Oui,4,5,4,Non,Oui
+2023-06-08T20:37:37Z,Pharmacist,Moins d'un an,Oui,4,Oui,2,4,4,Non,Oui
+2023-06-09T09:59:25Z,Dentist,Moins d'un an,Non,4,Non,2,3,4,Non,Oui
+2023-06-09T11:24:53Z,Pharmacist,1 à 3 ans,Oui,4,Oui,3,4,5,Oui,Oui
+2023-06-09T13:00:10Z,Pharmacist,1 à 3 ans,Non,3,Oui,2,2,4,Non,Oui
+2023-06-12T10:04:26Z,Doctor,Moins d'un an,Non,4,Oui,3,4,4,Non,Oui
+2023-06-12T10:37:04Z,Dentist,1 à 3 ans,Non,3,Oui,1,2,4,Non,Oui
+2023-06-12T10:55:04Z,Dentist,1 à 3 ans,Non,3,Oui,3,3,4,Non,Oui
+2023-06-12T11:14:48Z,Dentist,4 à 6 ans,Non,4,Oui,1,2,5,Non,Oui
+2023-06-13T13:48:30Z,Physiotherapist,1 à 3 ans,Non,3,Oui,3,4,5,Non,Oui
+2023-06-13T16:42:41Z,Physiotherapist,Plus de 10 ans,Non,4,Non,3,2,5,Non,Oui
+2023-06-13T22:13:20Z,Physiotherapist,Plus de 10 ans,Non,2,Oui,2,1,5,Non,Oui
+2023-06-14T05:39:24Z,Physiotherapist,Plus de 10 ans,Non,3,Préfère ne pas répondre,2,3,4,Non,Oui
+2023-06-14T19:08:11Z,Pharmacist,Plus de 10 ans,Non,3,Oui,3,4,5,Non,Oui
+2023-06-15T22:38:03Z,Pharmacist,1 à 3 ans,Non,3,Non,2,3,5,Non,Oui
+2023-06-19T10:06:38Z,Dentist,1 à 3 ans,Oui,4,Non,2,3,5,Non,Oui
+2023-06-19T10:08:24Z,Dentist,4 à 6 ans,Oui,4,Oui,2,4,5,Non,Oui
+2023-06-19T10:58:45Z,Doctor,1 à 3 ans,Oui,3,Non,3,4,2,Oui,Oui
+2023-06-19T11:03:52Z,Biologist,1 à 3 ans,Oui,4,Non,3,4,5,Préfère ne pas répondre,Préfère ne pas répondre
+2023-06-19T12:02:24Z,Dentist,1 à 3 ans,Non,3,Oui,3,3,4,Non,Oui
+2023-06-19T12:04:18Z,Doctor,Plus de 10 ans,Oui,2,Oui,2,2,2,Non,Oui
+2023-06-19T12:07:44Z,Dentist,4 à 6 ans,Oui,5,Non,3,4,4,Non,Oui
+2023-06-19T12:28:01Z,Pharmacist,1 à 3 ans,Non,4,Non,4,4,4,Non,Oui
+2023-06-19T13:04:42Z,Dentist,1 à 3 ans,Oui,4,Oui,2,2,5,Non,Oui
+2023-06-19T13:51:56Z,Dentist,1 à 3 ans,Non,4,Oui,5,3,5,Non,Oui
+2023-06-19T13:53:17Z,Pharmacist,4 à 6 ans,Oui,4,Oui,5,4,4,Non,Oui
+2023-06-19T13:55:31Z,Pharmacist,7 à 10 ans,Oui,5,Oui,5,5,5,Non,Oui
+2023-06-19T13:56:34Z,Pharmacist,4 à 6 ans,Non,4,Oui,4,5,5,Non,Oui
+2023-06-19T13:57:23Z,Pharmacist,1 à 3 ans,Oui,5,Oui,5,5,5,Non,Oui
+2023-06-19T13:58:05Z,Pharmacist,4 à 6 ans,Oui,4,Oui,4,4,4,Non,Oui
+2023-06-19T13:58:51Z,Physiotherapist,4 à 6 ans,Non,5,Non,5,5,5,Non,Oui
+2023-06-19T13:59:38Z,Pharmacist,4 à 6 ans,Non,4,Oui,3,3,5,Non,Oui
+2023-06-19T14:00:12Z,Physiotherapist,4 à 6 ans,Non,4,Oui,4,4,4,Non,Oui
+2023-06-19T14:01:04Z,Pharmacist,4 à 6 ans,Oui,4,Non,5,4,4,Non,Oui
+2023-06-19T14:02:08Z,Physiotherapist,4 à 6 ans,Non,4,Oui,4,4,5,Non,Oui
+2023-06-19T14:02:58Z,Pharmacist,1 à 3 ans,Non,4,Oui,5,4,5,Non,Oui
+2023-06-19T14:03:45Z,Pharmacist,1 à 3 ans,Non,4,Oui,5,4,5,Non,Oui
+2023-06-19T14:11:31Z,Biologist,Moins d'un an,Oui,4,Non,4,4,5,Non,Oui
+2023-06-19T14:15:32Z,Pharmacist,Moins d'un an,Non,3,Oui,2,3,5,Non,Oui
+2023-06-19T14:15:42Z,Doctor,Plus de 10 ans,Non,3,Oui,2,4,4,Non,Oui
+2023-06-19T14:18:45Z,Pharmacist,1 à 3 ans,Non,3,Oui,2,3,5,Non,Oui
+2023-06-19T14:31:47Z,Pharmacist,1 à 3 ans,Oui,3,Oui,2,4,3,Non,Oui
+2023-06-19T17:13:33Z,Pharmacist,Plus de 10 ans,Non,4,Non,1,2,5,Non,Oui
+2023-06-19T17:16:56Z,Psychomotrician,4 à 6 ans,Non,3,Non,4,1,4,Non,Oui
+2023-06-20T07:43:18Z,Nurse,7 à 10 ans,Non,4,Non,3,2,5,Non,Non
+2023-06-21T05:50:44Z,Pharmacist,Moins d'un an,Non,4,Oui,2,4,5,Non,Oui
+2023-06-21T12:21:18Z,Dentist,Plus de 10 ans,Oui,5,Non,5,5,5,Non,Oui
+2023-06-21T22:22:06Z,Dentist,Plus de 10 ans,Oui,3,Oui,3,3,5,Non,Oui
+2023-06-22T08:01:40Z,Dentist,Plus de 10 ans,Non,3,Oui,3,3,4,Non,Oui
+2023-06-22T08:05:49Z,Dentist,Plus de 10 ans,Oui,3,Oui,3,3,4,Non,Oui
+2023-06-22T08:06:48Z,Dentist,4 à 6 ans,Non,5,Oui,3,3,4,Non,Oui
+2023-06-22T08:08:54Z,Physiotherapist,1 à 3 ans,Non,4,Oui,5,5,5,Oui,Non
+2023-06-22T08:17:53Z,Doctor,4 à 6 ans,Oui,3,Oui,4,4,4,Non,Oui
+2023-06-22T08:18:58Z,Doctor,1 à 3 ans,Non,4,Oui,2,2,4,Non,Non
+2023-06-22T08:27:37Z,Dentist,1 à 3 ans,Non,3,Oui,3,4,5,Non,Oui
+2023-06-22T08:33:30Z,Pharmacist,1 à 3 ans,Non,4,Oui,4,4,5,Non,Oui
+2023-06-22T08:36:04Z,Dentist,1 à 3 ans,Non,4,Oui,4,5,5,Non,Oui
+2023-06-22T08:37:19Z,Physiotherapist,1 à 3 ans,Non,4,Oui,4,4,5,Non,Oui
+2023-06-22T08:40:24Z,Physiotherapist,1 à 3 ans,Non,4,Oui,4,4,5,Non,Oui
+2023-06-22T08:41:05Z,Physiotherapist,1 à 3 ans,Non,5,Non,3,3,5,Non,Oui
+2023-06-22T08:42:16Z,Physiotherapist,1 à 3 ans,Non,4,Non,4,4,5,Non,Oui
+2023-06-22T08:46:06Z,Dentist,1 à 3 ans,Oui,5,Oui,4,4,5,Non,Oui
+2023-06-23T06:52:03Z,Dentist,Moins d'un an,Oui,4,Oui,3,4,5,Non,Oui
+2023-06-23T08:27:49Z,Dentist,1 à 3 ans,Oui,4,Oui,1,4,5,Non,Oui
+2023-06-27T11:20:31Z,Radiologist,Plus de 10 ans,Oui,4,Oui,3,3,5,Non,Oui
+2023-06-29T20:43:47Z,Pharmacist,Plus de 10 ans,Oui,4,Non,4,4,4,Non,Oui
+2023-06-29T20:56:33Z,Pharmacist,Plus de 10 ans,Non,4,Non,4,5,5,Non,Oui
+2023-06-29T20:57:48Z,Pharmacist,Plus de 10 ans,Non,4,Non,1,2,5,Non,Oui
+2023-06-29T21:05:59Z,Pharmacist,Moins d'un an,Non,3,Non,3,4,5,Non,Oui
+2023-06-30T05:26:00Z,Pharmacist,Plus de 10 ans,Non,3,Oui,3,3,4,Non,Oui
+2023-06-30T06:07:20Z,Doctor,7 à 10 ans,Oui,3,Oui,1,3,5,Non,Oui
+2023-06-30T06:18:50Z,Physiotherapist,Plus de 10 ans,Non,3,Oui,3,3,3,Non,Oui
+2023-06-30T06:49:30Z,Doctor,Plus de 10 ans,Non,2,Non,2,5,5,Non,Oui
+2023-06-30T10:17:31Z,Pharmacist,Plus de 10 ans,Oui,4,Oui,1,3,5,Non,Oui
+2023-06-30T10:59:04Z,Pharmacist,Plus de 10 ans,Préfère ne pas répondre,3,Oui,2,2,3,Non,Préfère ne pas répondre
+2023-07-01T08:24:25Z,Pharmacist,Plus de 10 ans,Non,3,Non,4,3,5,Non,Oui
+2023-07-01T10:52:28Z,Pharmacist,7 à 10 ans,Non,3,Oui,3,3,5,Non,Oui
